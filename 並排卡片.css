@@ -1,0 +1,7 @@
+.container{display: flex;
+    background-color: rgb(244, 72, 72);
+}
+
+div{background-color: rgb(64, 220, 220);
+    height: 50%;
+}
